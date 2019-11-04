@@ -1,1 +1,1 @@
-# estrutura_de_dados
+# Arquivos de estrutura de dados e ponteiros.
